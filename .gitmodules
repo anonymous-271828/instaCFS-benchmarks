@@ -1,0 +1,3 @@
+[submodule "submodules/sigmasep"]
+	path = submodules/sigmasep
+	url = git@github-anon:caus-am/sigmasep.git
