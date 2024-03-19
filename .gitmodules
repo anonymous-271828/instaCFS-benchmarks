@@ -1,3 +1,6 @@
 [submodule "submodules/sigmasep"]
 	path = submodules/sigmasep
 	url = git@github.com:anonymous-271828/sigmasep.git
+[submodule "submodules/pyCausalFS"]
+	path = submodules/pyCausalFS
+	url = git@github-anon:kuiy/pyCausalFS.git

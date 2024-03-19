@@ -4,3 +4,6 @@ scipy
 jupyter
 networkx
 matplotlib
+pyro-ppl
+pomegranate
+causal-learn
